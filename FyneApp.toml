@@ -1,0 +1,12 @@
+[Details]
+  Icon = "license.png"
+  Name = "授权码工具"
+  ID = "summer.license"
+  Version = "1.0.0"
+  Build = 6
+
+[Development]
+  HelperText = "This is a simple authorization code tool."
+
+[Release]
+  HelperText = "This is a simple authorization code tool."
